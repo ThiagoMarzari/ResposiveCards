@@ -64,9 +64,9 @@
     .container{
         flex-direction: column;
         gap: 60px;
-        height: 100vh;
-        margin-top: 20px;
-        margin-bottom: 20px;
+        height: 100%;
+        padding-bottom: 20px;
+        padding-top: 20px;
         
     }
     .card-container{
